@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Axios  from "axios";
-import { WeatherIcons } from "./WeatherIcons";
+//import { WeatherIcons } from "./WeatherIcons";
 import WeatherComponent from "./components/WeatherComponent";
 import CityComponent from "./components/CityComponent";
 
